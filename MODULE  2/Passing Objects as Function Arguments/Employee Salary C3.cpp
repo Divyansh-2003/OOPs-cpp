@@ -2,9 +2,10 @@
 using namespace std;
 
 class Employee{
-    public:
+    private:
         int Salary;
         int Shares;
+    public:
         void setData(){
             cout<<"Enter Salary: "<<endl;
             cin>>Salary;
