@@ -9,7 +9,7 @@
 
 # IMPORTANT CODES:-
 ### Transfer private variable data from base class to derived class.
-```
+``` diff
 int ReturnVariable(){
     return variable;
 }
