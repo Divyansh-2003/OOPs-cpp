@@ -11,7 +11,11 @@
 ### Transfer private variable data from base class to derived class.
 
 ```ruby
-int ReturnVariable(){
-    return variable;   
+class Base(){
+    private:
+        int variable;
+    public:
+    int ReturnVariable(){
+        return variable;   
 }
 ```
