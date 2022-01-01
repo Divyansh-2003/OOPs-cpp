@@ -10,8 +10,11 @@
 # IMPORTANT CODES:-
 ### Transfer private variable data from base class to derived class.
 
-<span style="color: green"> 
+<font  style="color: green"> 
+    
 int ReturnVariable(){
+    
     return variable;
+    
 }
-</span>
+</font >
