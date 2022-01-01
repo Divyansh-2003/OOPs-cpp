@@ -10,11 +10,8 @@
 # IMPORTANT CODES:-
 ### Transfer private variable data from base class to derived class.
 
-<font  style="color: green"> 
-    
+```ruby
 int ReturnVariable(){
-    
-    return variable;
-    
+    return variable;   
 }
-</font >
+```
