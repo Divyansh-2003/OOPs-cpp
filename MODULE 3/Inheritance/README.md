@@ -1,2 +1,2 @@
-1)  sample 2 -   ````Multilevel Inheritance````
+1)  **sample2** -   ````Multilevel Inheritance````
 2)  
