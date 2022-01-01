@@ -9,10 +9,9 @@
 
 # IMPORTANT CODES:-
 ### Transfer private variable data from base class to derived class.
+
 <span style="color: green"> 
-``` diff
 int ReturnVariable(){
     return variable;
 }
-```
 </span>
