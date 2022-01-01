@@ -1,5 +1,5 @@
--  Private variable and functions are never inherited.
--  Public variable and functions are inherited
+~ Private variable and functions are never inherited.
+~ Public variable and functions are inherited
   
 
 
