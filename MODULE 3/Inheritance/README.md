@@ -15,6 +15,6 @@ class Base(){
         int variable;
     public:
     int ReturnVariable(){
-        return variable;   
-}
+        return variable;}
+};        
 ```
