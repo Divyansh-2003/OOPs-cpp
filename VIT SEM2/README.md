@@ -17,4 +17,4 @@
 
 9. C++ Program to Check Armstrong Number
 
-10.C++ Programs To Create Pyramid and Pattern
+10. C++ Programs To Create Pyramid and Pattern
