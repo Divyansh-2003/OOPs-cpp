@@ -18,11 +18,15 @@ class BankAccount{
         cout<<"Enter Balance"<<endl;
         cin>>Balance;
     }
+    void Display(void){
+        cout<<name<<" has "<<Balance<<" balance in the bank account"<<endl;
+    }
     void Deposit(void){
         int money;
         cout<<"Enter amount to deposit"<<endl;
         cin>>money;
         Balance = Balance + money;
+        Display();
     }
     void Withdraw(void){
         int money;
@@ -34,11 +38,8 @@ class BankAccount{
         else{
             Balance = Balance - money;
         }
+        Display();
     }
-    void Display(void){
-        cout<<name<<" has "<<Balance<<" balance in the bank account"<<endl;
-    }
-    
 };
 
 int main(){
