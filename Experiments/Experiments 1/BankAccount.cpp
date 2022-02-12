@@ -47,8 +47,5 @@ int main(){
     a.setData();
     a.Display();
     a.Deposit();
-    a.Display();
-    a.Withdraw();
-    a.Display();
-    
+    a.Withdraw();   
 }
